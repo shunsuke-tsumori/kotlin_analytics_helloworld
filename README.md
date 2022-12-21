@@ -1,1 +1,3 @@
 # kotlin_analytics_helloworld
+
+Kotlinでデータ分析の初歩的なあれこれを触ってみるプロジェクト。
